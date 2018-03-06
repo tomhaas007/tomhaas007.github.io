@@ -50,7 +50,7 @@ li{
 h1{
   color: black;
   padding-top: 100px;
-  font-size: 30px;
+  font-size: 50px;
   font-family: "Shadows Into Light Two", serif;
   text-align: center;
 }
@@ -71,9 +71,10 @@ h5{
 }
 
 p{
-  width: 70%;
-  margin: 0 auto;
   text-align: center;
+  font-size: 20px;
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 0 10%;
 }
 
 hr{
@@ -96,7 +97,7 @@ footer{
   background-image: url('https://www.cssauthor.com/wp-content/uploads/2014/09/Free-Macbook-Workspace-Mockup-PSD.jpg');
   background-position: center;
   background-size: cover;
-  height: 60vh;
+  height: 80vh;
   width: 100%;
   margin-bottom: 50px;
 }
@@ -115,7 +116,6 @@ footer{
 }
 
 .container p {
-  width: 90%;
   align-items: center;
   justify-content: center;
   margin-bottom: 10px;
