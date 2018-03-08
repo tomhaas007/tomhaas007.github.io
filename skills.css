@@ -107,11 +107,11 @@ footer{
   display: grid;
   position: relative;
   margin: auto;
-  height: 170px;
+  height: 260px;
   width: 90%;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  grid-gap: 30px;
+  grid-gap: 80px;
   margin-top: 40px;
 }
 
@@ -119,7 +119,7 @@ footer{
   align-items: center;
   justify-content: center;
   margin-bottom: 10px;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
 .grid{
